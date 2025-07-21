@@ -1,3 +1,4 @@
-[👉 Click here to download)](https://github.com/naveenvarjani/naveen-resume/raw/main/Resume.pdf)
+## 📄 Resume
 
-![Resume Preview](https://github.com/naveenvarjani/naveen-resume/blob/main/Resume.pdf)
+👉 [Click here to download (PDF)](https://github.com/naveenvarjani/naveen-resume/raw/main/Resume.pdf)  
+👁️ [View Resume on GitHub](https://github.com/naveenvarjani/naveen-resume/blob/main/Resume.pdf)
