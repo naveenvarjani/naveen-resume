@@ -1,2 +1,1 @@
-# naveen-resume
-My Downloadable Resume
+[📄 Download My Resume](https://github.com/naveenvarjani/naveen-resume/blob/main/Resume.pdf)
