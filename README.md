@@ -55,17 +55,17 @@ Data enthusiast with a background in pharmaceutical sciences and a transition in
 
 ## 🎓 Education
 
-**Bachelor of Pharmacy (Pharmaceutical Science)**  
-Rajasthan University of Health Sciences (2017–2022)  
+🎓 Bachelor of Pharmacy (Pharmaceutical Science)
+Rajasthan University of Health Sciences — 2017–2022
 📊 Grade: 7.44 / 10
 
-**Class XII**
-Rajasthan Board (2016–2017)
-📊 Grade: 80.4%
+🏫 Class XII – Science
+Rajasthan Board — 2016–2017
+📊 Percentage: 80.4%
 
-**Class X**
-Rajasthan Board (2014–2015)
-📊 Grade: 86.17%
+🏫 Class X
+Rajasthan Board — 2014–2015
+📊 Percentage: 86.17%
 
 ---
 
